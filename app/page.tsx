@@ -87,7 +87,7 @@ export default function Home() {
                 transition={{ duration: 0.5, delay: 0.2 }}
               >
                 <Image
-                  src="/placeholder.svg?height=550&width=550"
+                  src="/banner2.jpg?height=550&width=550"
                   width={550}
                   height={550}
                   alt="Digital Marketing"
@@ -198,7 +198,7 @@ export default function Home() {
                 viewport={{ once: true }}
               >
                 <Image
-                  src="/placeholder.svg?height=400&width=400"
+                  src="/team.jpg?height=400&width=400"
                   width={400}
                   height={400}
                   alt="Team working"

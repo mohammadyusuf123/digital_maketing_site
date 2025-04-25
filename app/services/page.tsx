@@ -261,7 +261,7 @@ export default function ServicesPage() {
                 className="flex items-center justify-center"
               >
                 <Image
-                  src="/placeholder.svg?height=500&width=500"
+                  src="/banner1.jpg?height=500&width=500"
                   width={500}
                   height={500}
                   alt="Our Process"

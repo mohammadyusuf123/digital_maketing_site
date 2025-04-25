@@ -15,25 +15,25 @@ export default function AboutPage() {
       name: "Sarah Johnson",
       role: "CEO & Founder",
       bio: "With over 15 years of experience in digital marketing, Sarah leads our team with vision and expertise.",
-      image: "/placeholder.svg?height=400&width=400",
+      image: "/people1.jpg?height=400&width=400",
     },
     {
       name: "Michael Chen",
       role: "SEO Specialist",
       bio: "Michael specializes in search engine optimization and helps clients improve their online visibility.",
-      image: "/placeholder.svg?height=400&width=400",
+      image: "/people2.jpg?height=400&width=400",
     },
     {
       name: "Jessica Rodriguez",
       role: "Social Media Manager",
       bio: "Jessica creates engaging social media strategies that connect brands with their target audiences.",
-      image: "/placeholder.svg?height=400&width=400",
+      image: "/people3.jpg?height=400&width=400",
     },
     {
       name: "David Wilson",
       role: "Content Strategist",
       bio: "David crafts compelling content that tells your brand's story and drives customer engagement.",
-      image: "/placeholder.svg?height=400&width=400",
+      image: "/people4.jpg?height=400&width=400",
     },
   ]
 
@@ -113,7 +113,7 @@ export default function AboutPage() {
                 transition={{ duration: 0.5, delay: 0.2 }}
               >
                 <Image
-                  src="/placeholder.svg?height=550&width=550"
+                  src="/banner.jpg?height=550&width=550"
                   width={550}
                   height={550}
                   alt="About DigiMarkPro"
