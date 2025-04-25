@@ -249,20 +249,6 @@ export default function ContactPage() {
                   </Card>
                 </motion.div>
 
-                {/* <motion.div
-                  initial={{ opacity: 0, y: 50 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.5, delay: 0.6 }}
-                  className="aspect-video overflow-hidden rounded-xl"
-                >
-                  <Image
-                    src="/placeholder.svg?height=400&width=600"
-                    width={600}
-                    height={400}
-                    alt="Office Map"
-                    className="h-full w-full object-cover"
-                  />
-                </motion.div> */}
               </div>
             </div>
           </div>
